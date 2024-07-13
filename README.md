@@ -1,4 +1,4 @@
-![logo](https://github.com/tinku507/tinku507/blob/main/banner2.pdf)
+![logo](https://github.com/tinku507/tinku507/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Tinku yadav</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
